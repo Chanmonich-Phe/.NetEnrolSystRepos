@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DoubleLinkedListTest": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
